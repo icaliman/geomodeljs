@@ -1,0 +1,14 @@
+{
+  "name": "geomodel2",
+  "description": "An implementation of the Geomodel/Geocell concept - http://code.google.com/apis/maps/articles/geospatial.html",
+  "keywords": [
+    "geomodel",
+    "geocell",
+    "geolocation"
+  ],
+  "author": {
+    "name": "Ion Caliman",
+    "email": "icaliman92@gmail.com"
+  },
+  "version": "0.0.1"
+}
