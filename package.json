@@ -1,14 +1,30 @@
 {
-  "name": "geomodel2",
-  "description": "An implementation of the Geomodel/Geocell concept - http://code.google.com/apis/maps/articles/geospatial.html",
-  "keywords": [
-    "geomodel",
-    "geocell",
-    "geolocation"
-  ],
-  "author": {
-    "name": "Ion Caliman",
-    "email": "icaliman92@gmail.com"
-  },
-  "version": "0.0.1"
+    "name": "geomodeljs",
+    "version": "0.0.1",
+    "description": "An implementation of the Geomodel/Geocell concept - http://code.google.com/apis/maps/articles/geospatial.html",
+    "homepage": "https://github.com/icaliman/geomodeljs",
+    "author": {
+        "name": "John Caliman",
+        "email": "icaliman92@gmail.com"
+    },
+    "keywords": [
+        "geomodel", "geocell", "geolocation"
+    ],
+    "engines": {
+        "node": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/icaliman/geomodeljs.git"
+    },
+    "bugs": {
+        "url": "https://github.com/icaliman/geomodeljs/issues"
+    },
+    "licenses" : [
+        {
+            "type" : "MIT"
+        }
+    ],
+    "devDependencies" : {
+    }
 }

@@ -71,9 +71,13 @@ region for the geocell.
 
 Create a Geomodel instance:
 
-    var Geomodel = require('geomodel').create_geomodel();
+    var geomodel = require('geomodel').create_geomodel();
 
-## Author
+For detailed usage see <code>test/index.coffee</code>
 
-John Caliman
-icaliman on github
+## Testing
+
+For testing you need to install nodeunit module:
+
+    # npm install nodeunit -g
+    # cd test & nodeunit index.coffee
