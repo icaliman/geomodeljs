@@ -1,7 +1,7 @@
 {
     "name": "geomodeljs",
     "version": "0.0.1",
-    "description": "An implementation of the Geomodel/Geocell concept - http://code.google.com/apis/maps/articles/geospatial.html",
+    "description": "An implementation of the Geomodel/Geocell concept.",
     "homepage": "https://github.com/icaliman/geomodeljs",
     "author": {
         "name": "John Caliman",
