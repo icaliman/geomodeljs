@@ -65,6 +65,7 @@ Create a Geomodel instance:
     var box = geomodel.compute_box(hash);
 
 Sample output:
+
     > geomodel.compute_hash(47, 29)
     'e118e3d5'
     > geomodel.compute_hash(47, 29, 16)
